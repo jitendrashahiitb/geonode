@@ -1,5 +1,9 @@
 .. _sextante:
 
+DEPRECATED
+What is the functional  alternative ?
+
+
 Spatial Processing with Sextante
 ================================
 
